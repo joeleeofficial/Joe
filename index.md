@@ -1,35 +1,22 @@
-## Joe Lee
+## Hi There, I am Joe
 
-Hi, I am Joe Lee
-
-I Love To Create Cool Stuff
+I love creating cool stuff and useless stuff. In this page, I will introduce some of my projects to you.
 
 
+### My Projects
 
-```markdown
-Syntax highlighted code block
+I Own Many Projects And I Will List Some Of My Useful Projects
 
-# Header 1
-## Header 2
-### Header 3
+### Dismega Link Shortener
 
-- Bulleted
-- List
+Dismega Is A Link Shortener Service And Its Free To Use. Its Safe, Fast And Easy To Use. [Check Out Dismega](https://www.disme.ga)
 
-1. Numbered
-2. List
+### Shards Bot 
 
-**Bold** and _Italic_ and `Code` text
+Shards Bot Is An Awesome Discord Music Bot [Shards Bot](https://www.shards.ga)
 
-[Link](url) and ![Image](src)
-```
+### Uptoves
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Uptoves Is A Community That Do Surveys On Many Platforms Like Discord And Stuff Like That [Check Out Uptoves](https://uptoves.ga)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joeleeofficial/joe/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
