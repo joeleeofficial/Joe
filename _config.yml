@@ -3,6 +3,17 @@
 theme: jekyll-theme-cayman
 title: Joe
 description: I love creating cool stuff and useless stuff. In this page, I will introduce some of my projects to you.
+baseurl:      ""
+paginate:     1
+locale:       "en"
+
+author:
+  name:       Joe
+  url:        https://joe.js.org
+
+# Gems
+gems:
+  - jekyll-paginate
 ---
 permalink: /404.html
 ---
