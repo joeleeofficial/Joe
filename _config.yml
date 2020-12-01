@@ -6,3 +6,5 @@ description: I love creating cool stuff and useless stuff. In this page, I will 
 ---
 permalink: /404.html
 ---
+github:
+  is_project_page: false
