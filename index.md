@@ -1,6 +1,3 @@
-## Hi There, I am Joe
-
-I love creating cool stuff and useless stuff. In this page, I will introduce some of my projects to you.
 
 
 ### My Projects
