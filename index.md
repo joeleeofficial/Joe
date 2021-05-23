@@ -2,18 +2,23 @@
 
 ### My Projects
 
-I Own Many Projects And I Will List Some Of My Useful Projects
+Some Of My Useful Projects
 
-### Dismega Link Shortener
+### Jet Brawley Bot
 
-Dismega Is A Link Shortener Service And Its Free To Use. Its Safe, Fast And Easy To Use. [Check Out Dismega](https://www.disme.ga)
+Yep, Its A Bot. What Bot ? An Amazing Discord Bot That Does Many Things. Comes With Moderation, Music, Fun, Utility, Tracker And Many More Commands ! 
+[Invite](https://brawley.is-a.dev/bot) Jet Brawley To Your Server Now.
 
-### Shards Bot 
 
-Shards Bot Is An Awesome Discord Music Bot [Shards Bot](https://www.shards.ga)
+### BrawlBio
 
-### Uptoves
+A Place Where You Can Create Then Share Your BrawlStars Profile With Your Friends And Family. [Go Create One For Yourself](https://bs.is-a.dev)
 
-Uptoves Is A Community That Do Surveys On Many Platforms Like Discord And Stuff Like That [Check Out Uptoves](https://uptoves.ga)
+
+### modmail.js
+
+An NPM Package, A Discord Modmail Bot Build In. Fully Customizable !
+
+
 
 
